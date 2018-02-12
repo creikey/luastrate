@@ -1,4 +1,7 @@
-# Prerequisites
+# Scons files
+.sconsign.dblite
+
+# # Prerequisites
 *.d
 
 # Compiled Object files
